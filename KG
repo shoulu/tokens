@@ -1,0 +1,11 @@
+{ 
+"name": "Kangaroo",
+"website": "https://game.australianfarm.cn.com/",
+"description": "Token KG is a game jointly developed by the Australian cryptocurrency exchange Coin Jar and the famous Australian game company Halfbrick Studios (whose masterpiece is Fruit Ninja), which is an important step for Halfbrick Studios to enter the metaverse game.",
+"explorer": "https://bscscan.com/token/0xb65d50e3428e7b04099dce14fdc9b8095e762642",
+"type": "BEP20",
+"symbol": "KG",
+"decimals": 8,
+"status": "active",
+"id": "0xb65d50E3428e7b04099dCE14FdC9b8095E762642"
+}
